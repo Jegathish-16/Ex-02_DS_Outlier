@@ -52,23 +52,23 @@ df_new
 df.to_csv('weight.csv', index=False)
 ```
 # OUTPUT:
-## Initial data set:
+### Initial data set:
 ![output](s1.png)
-## Data set after removing non numerical sets:
+### Data set after removing non numerical sets:
 ![output](s2.png)
-## Graph displaying initial dataset with outliers:
+### Graph displaying initial dataset with outliers:
 ![output](s3.png)
-## Z scores to detect outliers:
+### Z scores to detect outliers:
 ![output](s4.png)
-## Data set after removing outliers in weight using z scores and list manupilation:
+### Data set after removing outliers in weight using z scores and list manupilation:
 ![output](s5.png)
-## Graph after removing outliers in weight:
+### Graph after removing outliers in weight:
 ![output](s6.png)
-## Data set after removing outliers in height using Interquartile Range(IQR):
+### Data set after removing outliers in height using Interquartile Range(IQR):
 ![output](s7.png)
-## Final graph after removing all outliers:
+### Final graph after removing all outliers:
 ![output](s8.png)
-## Final data set:
+### Final data set:
 ![output](s9.png)
 
 # RESULT:
